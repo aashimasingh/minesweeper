@@ -1,0 +1,60 @@
+.board {
+    text-align: center;
+    width : 420px;
+    background-color: lightcoral;
+    margin: 0 auto;
+    padding: 15px;
+    display: inline-block;
+    /*height: 430px;*/
+    
+}
+
+.board .boardHeader {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+.part1 {
+    float: left;
+}
+
+.Sq {
+        border : 1px solid #eee;
+        height : 50px;
+        width : 50px;
+        line-height: 50px;
+        float : left;
+        background-color: lightgray;
+        cursor: pointer;
+        text-align: center;
+}
+
+.Sq:hover {
+    background-color: #48E5C2;
+}
+
+.revealed {
+    background-color: white;
+}
+
+.restartButton {
+    padding: 5px;
+    color: white;
+    background-color: violet;
+    font-family: fantasy;
+    border: 2px solid tomato;
+    float: right;
+}
+
+.restartButton:hover {
+    background-color: teal;
+}
+
+.smiley {
+    width: 30px;
+    height: 30px;
+    float:center;
+    border-radius: 50%;
+}
