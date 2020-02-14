@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image of minesweeper](https://github.com/aashimasingh/minesweeper/blob/master/src/images/minesweeper_screenshot.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
